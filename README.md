@@ -1,5 +1,7 @@
 # TweetWrap
 
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white)](https://pkg.go.dev/github.com/hekmon/tweetwrap?tab=doc) [![Go Report Card](https://goreportcard.com/badge/github.com/hekmon/tweetwrap)](https://goreportcard.com/report/github.com/hekmon/pushover)
+
 TweetWrap handles the 3-legged OAuth process and auth state in order to simplify the initialization of [dghubble's go-twitter](https://github.com/dghubble/go-twitter) library.
 
 ## How to use
